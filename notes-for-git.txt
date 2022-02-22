@@ -1,0 +1,5 @@
+#basic work flow:
+
+make file:
+git add <file name>
+git status - to check work 
