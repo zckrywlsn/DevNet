@@ -1,3 +1,14 @@
 Some quick notes to help me on the way. 
-I have added a few lines of text to make sure i git it. 
-added a new line for testing creds. 
+
+I have some quick 'git' commands for future reference:
+git checkout main
+git push
+git commit -m "added udpate2"
+git push --set-upstream origin branch01
+git add README.md
+git log
+git status
+git pull --set-upstream origin main
+git config --global credential.helper store
+git diff 5b76617 fc23c9e
+git checkout -b branch01
